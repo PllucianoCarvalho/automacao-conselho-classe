@@ -161,6 +161,14 @@ venv.bak/
 
 # Spyder project settings
 .spyderproject
+
+# Planilhas e relatórios podem conter dados pessoais e pedagógicos
+/dados/
+/relatorios_gerados/
+*.xlsx
+*.xls
+*.docx
+!/PRE-CONSELHO 2025 _ GITHUB.xlsx
 .spyproject
 
 # Rope project settings
